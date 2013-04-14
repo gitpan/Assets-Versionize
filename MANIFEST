@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+README.md
+bin/assets-versionize.pl
+dist.ini
+lib/Assets/Fileinfo.pm
+lib/Assets/Versionize.pm
+t/01-Assets-Fileinfo.t
+t/02-Assets-Versionize.t
+t/assets/css/print.css
+t/assets/images/bg.gif
+t/pages/a.html
+t/release-pod-coverage.t
+t/release-pod-syntax.t
